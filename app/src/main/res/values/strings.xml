@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HCPractice1</string>
+    <string-array name="tabs_pra">
+        <item>纯色</item>
+        <item>圆</item>
+        <item>路径</item>
+        <item>直方图</item>
+        <item>饼图</item>
+    </string-array>
+</resources>

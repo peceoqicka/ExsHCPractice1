@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "name": "Java",
+      "value": 0.4623,
+      "color": "#F50057"
+    },
+    {
+      "name": "Swift",
+      "value": 0.2883,
+      "color": "#651FFF"
+    },
+    {
+      "name": "Objective-C",
+      "value": 0.1018,
+      "color": "#2979FF"
+    },
+    {
+      "name": "Javascript",
+      "value": 0.0219,
+      "color": "#00E5FF"
+    },
+    {
+      "name": "C#",
+      "value": 0.0504,
+      "color": "#00E676"
+    },
+    {
+      "name": "Kotlin",
+      "value": 0.0754,
+      "color": "#C6FF00"
+    }
+  ]
+}
